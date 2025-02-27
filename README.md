@@ -26,11 +26,18 @@ It includes features like:
 - Scikit-Learn, TensorFlow (Machine Learning)  
 
 ## Model Performance  
-|        Model        | Accuracy      
+|        Model        | Accuracy 
+
 | Logistic Regression | 94% 
+
 | Linear Regression   | 93%
+
 | Naive Bayes         | 93% 
+
 | KNN                 | 92%
+
 | SVM                 | 89% 
+
 | Neural Network      | 87%
+
 | Random Forest       | 84% 
