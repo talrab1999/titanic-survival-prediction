@@ -26,7 +26,7 @@ It includes features like:
 - Scikit-Learn, TensorFlow (Machine Learning)  
 
 ## Model Performance  
-|        Model        | Accuracy 
+|        Model        | Accuracy
 
 | Logistic Regression | 94% 
 
